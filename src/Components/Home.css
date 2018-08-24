@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100');
+
+.HomePage{
+    overflow: hidden;
+    width: 100%;
+    height: 720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+  
+    
+}
+
+.mainTitle{
+    height: 10em;
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+
+    /* height: 700px;
+    width: 100%; */
+}
+
+
+.mainTitle h3{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
