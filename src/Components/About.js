@@ -6,9 +6,9 @@ import React, { Component } from 'react';
 
 const About = () => (
     <div className="AboutPage">
-    <div className="mainAboutTitle">
+    {/* <div className="mainAboutTitle">
     <h1>mainAboutTitle</h1>
-    </div>
+    </div> */}
       </div>
       
   )

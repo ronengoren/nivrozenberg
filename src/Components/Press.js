@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
-import './FineArt.css';
+import './Press.css';
 
 
 
 
 
-const FineArt = () => (
-    <div className="FineArtPage">
-    <div className="mainFineArtTitle">
-    <h1 >NIV ROZENBERG</h1>
+const Press = () => (
+    <div className="PressPage">
+    <div className="mainPressTitle">
+    <h1 >NIV ROZENBERG PRESS</h1>
     <h3><a href="/FineArt">Fine Art</a> <a href="/Commercial">Commercial</a> <a href="/About">About</a></h3>
 
     </div>
@@ -16,4 +16,4 @@ const FineArt = () => (
       
   )
 
-  export default FineArt;
+  export default Press;
